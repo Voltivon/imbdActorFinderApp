@@ -14,7 +14,18 @@ body, html {
   background-color: black;
   width: 100vw;
   height: 100vh;
+
   
-  color: black;
 
 }
+
+.search-div {
+  color: white;
+  
+}
+
+.lists-div {
+  display: flex;
+}
+
+
